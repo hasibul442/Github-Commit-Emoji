@@ -45,4 +45,6 @@
 | Code review changes        | :ok_hand: `:ok_hand:`                         |
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
 | Move/rename repository     | :truck: `:truck:`                             |
+| Update                     | :up: `:up_button:`                            |
+| Add Code                   | :pencil2: `:pencil2:`                          |
 | Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
